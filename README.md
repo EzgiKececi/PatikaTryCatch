@@ -1,1 +1,1 @@
-# PatikaTryCatch
+Kullanıcıdan alınan bir sayının karesini ekrana yazdırmak için try-catch içinde while döngüsü kullanıldı. While döngüsü bir boolean değişken üzerinden doğru veri girilip sonuç elde edilene kadar çalıştırıldı. Hata kısmında catch bloğu üzerinden ekrana hata bilgisi gönderild. 
