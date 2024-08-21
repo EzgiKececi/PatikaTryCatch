@@ -1,0 +1,14 @@
+C:\Users\Yavuz\source\repos\PatikaTryCatch\PatikaTryCatch\obj\Debug\net8.0\PatikaTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yavuz\source\repos\PatikaTryCatch\PatikaTryCatch\obj\Debug\net8.0\PatikaTryCatch.AssemblyInfoInputs.cache
+C:\Users\Yavuz\source\repos\PatikaTryCatch\PatikaTryCatch\obj\Debug\net8.0\PatikaTryCatch.AssemblyInfo.cs
+C:\Users\Yavuz\source\repos\PatikaTryCatch\PatikaTryCatch\obj\Debug\net8.0\PatikaTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\source\repos\PatikaTryCatch\PatikaTryCatch\bin\Debug\net8.0\PatikaTryCatch.exe
+C:\Users\Yavuz\source\repos\PatikaTryCatch\PatikaTryCatch\bin\Debug\net8.0\PatikaTryCatch.deps.json
+C:\Users\Yavuz\source\repos\PatikaTryCatch\PatikaTryCatch\bin\Debug\net8.0\PatikaTryCatch.runtimeconfig.json
+C:\Users\Yavuz\source\repos\PatikaTryCatch\PatikaTryCatch\bin\Debug\net8.0\PatikaTryCatch.dll
+C:\Users\Yavuz\source\repos\PatikaTryCatch\PatikaTryCatch\bin\Debug\net8.0\PatikaTryCatch.pdb
+C:\Users\Yavuz\source\repos\PatikaTryCatch\PatikaTryCatch\obj\Debug\net8.0\PatikaTryCatch.dll
+C:\Users\Yavuz\source\repos\PatikaTryCatch\PatikaTryCatch\obj\Debug\net8.0\refint\PatikaTryCatch.dll
+C:\Users\Yavuz\source\repos\PatikaTryCatch\PatikaTryCatch\obj\Debug\net8.0\PatikaTryCatch.pdb
+C:\Users\Yavuz\source\repos\PatikaTryCatch\PatikaTryCatch\obj\Debug\net8.0\PatikaTryCatch.genruntimeconfig.cache
+C:\Users\Yavuz\source\repos\PatikaTryCatch\PatikaTryCatch\obj\Debug\net8.0\ref\PatikaTryCatch.dll
